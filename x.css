@@ -1,0 +1,47 @@
+h2{
+    text-transform: capitalize;
+    font-size: 35px;
+    text-align: center;
+}
+.input{
+    height:400px;
+    width:100%;
+    border: 3px solid black;
+    padding-left: 50px;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8WWIMlBtYEuRN6B9I6r-9p12lpHAoc3XxSA&usqp=CAU");
+}
+#note-title, #note-text{
+    height: 30px;
+    width: 300px;
+    background-color: yellow;
+}
+#add-btn{
+    height: 40px;
+    color: red;
+    background-color: skyblue;
+}
+.output{
+    height:500px;
+    width:100%;
+    border: 3px solid red;
+    padding-left: 50px;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8WWIMlBtYEuRN6B9I6r-9p12lpHAoc3XxSA&usqp=CAU");
+}
+.delete{
+    color: green;
+    font-size: larger;
+    background-color: wheat;
+    height: 25px;
+}
+.editnote{
+    color: green;
+    background-color: wheat;
+    font-size: larger;
+    height: 25px;
+}
+#note{
+background-color: yellow;
+width:300px;
+height: 150px;
+text-align: center;
+}
